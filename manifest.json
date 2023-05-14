@@ -6,7 +6,7 @@
     "start_url" : "/First_PWA/",
     "name" : "Najpopularniejsze rasy psów",
     "short_name" : "PsyApp",
-    "description" : "PWA Project ",
+    "description" : "PWA Project",
     "orientation":"portrait",
     "icons" : [
         {
