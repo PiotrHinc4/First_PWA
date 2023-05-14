@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    background-image: url("img/psy.jpg");
+    min-height: 150px;
+    text-align: center;
+}
+.footer {
+    text-align: center;
+    width: 100%;
+    clear: both;
+}
+.pies {
+    background-color: coral;
+    text-align: center;
+    min-width: 200px;
+    min-height: 300px;
+    width: 400px;
+    height: 500px;
+    float: left;
+}
