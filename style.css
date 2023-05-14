@@ -7,13 +7,16 @@
     min-height: 150px;
     text-align: center;
 }
+.main {
+    width: 100%;
+}
 .footer {
     text-align: center;
     width: 100%;
     clear: both;
+    background-color: #35e4f6;
 }
 .pies {
-    background-color: coral;
     text-align: center;
     min-width: 200px;
     min-height: 300px;
